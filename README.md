@@ -25,9 +25,11 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 ## Quoting text
+You can quote text with a >.
 
-You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
-Example: Use `git status` to list all new or modified files that haven't yet been committed.
+In the words of Abraham Lincoln:
+
+> Pardon my French
 
 ## Nested Lists
 You can create a nested list by indenting one or more list items below another item.
