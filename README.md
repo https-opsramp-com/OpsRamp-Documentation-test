@@ -5,7 +5,7 @@ This repository is created to test our documentation
 
 Let us see with some basics of writing..!!
 
-##Headings
+## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
 > Example : 
@@ -25,7 +25,8 @@ You can make an unordered list by preceding one or more lines of text with - or 
 * George Washington
 * John Adams
 * Thomas Jefferson
-To order your list, precede each line with a number.
+
+> To order your list, precede each line with a number.
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
@@ -33,9 +34,9 @@ To order your list, precede each line with a number.
 ## Quoting text
 You can quote text with a >.
 
-In the words of Abraham Lincoln:
+In the words of bharath:
 
-> Pardon my French
+> Pardon my delay Punit..!!
 
 ## Nested Lists
 > You can create a nested list by indenting one or more list items below another item.
