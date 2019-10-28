@@ -7,8 +7,10 @@ Let us see with some basics of writing..!!
 
 ## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
-> Example : 
+> Example :
+
 [![Capture.jpg](https://i.postimg.cc/CxzVP7rk/Capture.jpg)](https://postimg.cc/cvyj6RSL).
+
 ## xyz
 ### xyz
 #### xyz
@@ -19,9 +21,19 @@ This site was built using [GitHub Pages](https://https-opsramp-com.github.io/Ops
 
 ## Lists
 You can make an unordered list by preceding one or more lines of text with - or *.
+
+Example - 1
+
+[![Capture-JPG-2.jpg](https://i.postimg.cc/vBmkPLvC/Capture-JPG-2.jpg)](https://postimg.cc/Mch9HBNY).
+
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+Example - 2
+
+[![Capture-JPG-3.jpg](https://i.postimg.cc/g2QK9ydf/Capture-JPG-3.jpg)](https://postimg.cc/yDhRcZDP).
+
 * George Washington
 * John Adams
 * Thomas Jefferson
