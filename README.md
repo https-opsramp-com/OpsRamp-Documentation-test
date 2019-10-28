@@ -50,7 +50,7 @@ You can call out code or a command within a sentence with single backticks. The 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 ## Further reading
-[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-[About writing and formatting on GitHub](https://help.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
-[Working with advanced formatting](https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting)
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/).
+[About writing and formatting on GitHub](https://help.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github).
+[Working with advanced formatting](https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting).
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
