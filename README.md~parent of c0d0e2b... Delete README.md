@@ -3,6 +3,7 @@
 - [Lists](#Lists)
 - [Quoting text](#Quoting text)
 - [Nested Lists](#Nested Lists)
+- [Highlights](#highlights)
 - [Quoting code](#Quoting code)
 - [Further reading](#Further reading)
 
