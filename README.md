@@ -13,9 +13,9 @@ Let us see with some basics of writing..!!
 - [Links](#links)
 - [Lists](#lists)
 - [Quoting text](#quoting-text)
-- [Nested Lists](#nested-Lists)
+- [Nested Lists](#nested-lists)
 - [Quoting code](#quoting-code)
-- [Further reading](further-reading)
+- [Further reading](#further-reading)
 
 ## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
