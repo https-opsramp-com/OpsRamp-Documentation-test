@@ -1,11 +1,10 @@
 - [Headings](#headings)
 - [Links](#Links)
 - [Lists](#Lists)
-- [Quoting text](#Quoting text)
-- [Nested Lists](#Nested Lists)
-- [Highlights](#highlights)
-- [Quoting code](#Quoting code)
-- [Further reading](#Further reading)
+- [Quoting text](#Quotingtext)
+- [Nested Lists](#NestedLists)
+- [Quoting code](#Quotingcode)
+- [Further reading](#Furtherreading)
 
 ## OpsRamp Documentation test
 Hello Folks ..!!
