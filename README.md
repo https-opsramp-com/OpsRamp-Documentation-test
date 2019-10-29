@@ -8,7 +8,7 @@ This repository is created to test our documentation
 Let us see with some basics of writing..!!
 
 ## Table of Contents
-- [About](#OpsRamp-Documentation-test)
+- [About](#opsramp-documentation-test)
 - [Headings](#headings)
 - [Links](#links)
 - [Lists](#lists)
