@@ -48,7 +48,7 @@ You can quote text with a >.
 
 In the words of bharath:
 
-> Pardon my delay Punit..!!
+> Love and Peace
 
 ## Nested Lists
 > You can create a nested list by indenting one or more list items below another item.
