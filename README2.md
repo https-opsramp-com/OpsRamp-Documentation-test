@@ -8,7 +8,7 @@ Let us see with some basics of writing..!!
 ## Table of Contents
 - [About](#opsRamp-documentation-test)
 - [Headings](#headings)
-- [Links](lLinks)
+- [Links](#links)
 - [Lists](#lists)
 - [Quoting text](#quoting-text)
 - [Nested Lists](#nested-lists)
