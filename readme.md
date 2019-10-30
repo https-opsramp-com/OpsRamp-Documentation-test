@@ -1,78 +1,56 @@
 ---
-title: OpsRamp Documentation Test
+title: OpsRamp Doc Example
 layout: template
-filename: Test -1.md
+filename: OpsRamp Doc Example .md
 ---
+## Introduction
+Onboarding is bringing a new device onto the OpsRamp for the first time. The onboarded device is managed and monitored by OpsRamp.
 
-Hello Folks ..!!
+Three simple steps in onboarding are:
 
-This repository is created to test our documentation
+1. Add Devices
+2. Assign Templates
+3. Validate
+## Onboarding Quick Start
+Review Onboarding overall flow
 
-Let us see with some basics of writing..!!
+1. Choose a scenario for Agent and Gateway deployment. See scenarios for deploying Agent and Gateway
+2. Add Device Credentials.
 
-## Table of Contents
-- [About](#opsramp-documentation-test)
-- [Headings](#headings)
-- [Links](#links)
-- [Lists](#lists)
-- [Quoting text](#quoting-text)
-- [Nested Lists](#nested-lists)
-- [Quoting code](#quoting-code)
-- [Further reading](#further-reading)
 
-## Headings
-To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
-> Example :
+3. Add devices. See instructions for adding devices
+4. Assign monitoring templates. See instructions for assigning templates
+5. Assign jobs. See instructions for configuring Jobs
+6. Validate. See instructions for validating devices
 
-[![Capture.jpg](https://i.postimg.cc/CxzVP7rk/Capture.jpg)](https://postimg.cc/cvyj6RSL).
+## Core Concepts
+### Device
+Any element managed by OpsRamp is a device, like a Windows server or a network device.
 
-## xyz
-### xyz
-#### xyz
+### Discovery Profile
+Discovery profile defines the range of devices that you want to discover, letting you to select devices specific to a Gateway or an Agent. You can create multiple discovery profiles, each with a different set of devices.
 
-## Links
-You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
-This site was built using [GitHub Pages](https://https-opsramp-com.github.io/OpsRamp-Documentation-test/).
+### Monitoring Template
+Monitoring template lets you standardize monitoring settings across the organization by enabling you to specify the monitoring settings and assign them to the devices.
 
-## Lists
-You can make an unordered list by preceding one or more lines of text with - or *.
-Example - 1
-[![Capture-JPG-2.jpg](https://i.postimg.cc/vBmkPLvC/Capture-JPG-2.jpg)](https://postimg.cc/Mch9HBNY).
-- George Washington
-- John Adams
-- Thomas Jefferson
+### Onboarding Policy
+Whenever a device is discovered, you can create an onboarding policy such that it gets added to a specified device group. For example, whenever a network device is added or discovered it should be part of network device groups.
 
-Example - 2
-[![Capture-JPG-3.jpg](https://i.postimg.cc/g2QK9ydf/Capture-JPG-3.jpg)](https://postimg.cc/yDhRcZDP).
-* George Washington
-* John Adams
-* Thomas Jefferson
+## Add Device
+There are two ways to add devices to OpsRamp.
 
-> To order your list, precede each line with a number.
+### Discovery
+The devices available in the network can be discovered and added to OpsRamp. You can discover a specific device, devices present in a specific IP range and even multiple devices.
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+### Discovery Profile
+Discovery profile defines the range of devices you want to discover and lets you select devices to be managed or unmanaged. You can create multiple discovery profiles, each for a different set of devices. Each profile can then be saved and reused for future discoveries.
 
-## Quoting text
-You can quote text with a >.
-In the words of bharath:
-> Love and Peace
+### Create Discovery Profile
+1. Log into OpsRamp.
+2. Click 'All Clients' and from the displayed list, select the Client.
+3. From the options in the drop-down menu, click 'Setup'.
 
-## Nested Lists
-> You can create a nested list by indenting one or more list items below another item.
 
-To create a nested list using the web editor on GitHub or a text editor that uses a monospaced font, like Atom, you can align your list visually. Type space characters in front of your nested list item, until the list marker character (- or *) lies directly below the first character of the text in the item above it.
-1. First list item
-   - First nested list item
-     - Second nested list item
-     
-## Quoting code
-You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
-Use `git status` to list all new or modified files that haven't yet been committed.
-
-## Further reading
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/).
-- [About writing and formatting on GitHub](https://help.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github).
-- [Working with advanced formatting](https://help.github.com/en/github/writing-on-github/working-with-advanced-formatting).
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+4. From the left pane, click Resource Management> Discovery and Deployment.
+5. Select the client in which the discovery profile needs to be added and then click 'Add'.
+6. Provide following discovery details
