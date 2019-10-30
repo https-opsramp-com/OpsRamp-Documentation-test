@@ -1,5 +1,5 @@
 
-## OpsRamp Documentation test
+## OpsRamp Documentation Test
 Hello Folks ..!!
 
 This repository is created to test our documentation
