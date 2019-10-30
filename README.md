@@ -1,8 +1,4 @@
----
-title: OpsRamp Doc Example
-layout: template
-filename: OpsRamp Doc Example .md
----
+
 ## Introduction
 Onboarding is bringing a new device onto the OpsRamp for the first time. The onboarded device is managed and monitored by OpsRamp.
 
