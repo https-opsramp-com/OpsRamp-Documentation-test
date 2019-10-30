@@ -1,5 +1,5 @@
 ---
-title: ## OpsRamp Documentation Test
+title: OpsRamp Documentation Test
 layout: template
 filename: Test -1.md
 ---
