@@ -33,7 +33,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 This site was built using [GitHub Pages](https://https-opsramp-com.github.io/OpsRamp-Documentation-test/).
 
 ## Lists
-You can make an unordered list by preceding one or more lines of text with - or *.
+You can make an unordered list by preceding one or more lines of text with - orxzy *.
 
 Example - 1
 
