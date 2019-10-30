@@ -6,14 +6,14 @@ This repository is created to test our documentation
 Let us see with some basics of writing..!!
 
 ## Table of Contents
-- [About](#OpsRamp-Documentation-test)
+- [About](#opsRamp-documentation-test)
 - [Headings](#headings)
-- [Links](#Links)
-- [Lists](#Lists)
-- [Quoting text](#Quoting-text)
-- [Nested Lists](#Nested-Lists)
-- [Quoting code](#Quoting-code)
-- [Further reading](#Further-reading)
+- [Links](lLinks)
+- [Lists](#lists)
+- [Quoting text](#quoting-text)
+- [Nested Lists](#nested-lists)
+- [Quoting code](#quoting-code)
+- [Further reading](#further-reading)
 
 ## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
