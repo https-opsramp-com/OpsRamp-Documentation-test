@@ -34,7 +34,7 @@ Whenever a device is discovered, you can create an onboarding policy such that i
 There are two ways to add devices to OpsRamp.
 
 ### Discovery
-The devices available in the network can be discovered and added to OpsRamp. You can discover a specific device, devices present in a specific IP range and even multiple devices.
+The devices available in the network can be discovered and added to OpsRamp. You can discover a specific device, devices present in a specific IP range and even multiple devicess.
 
 ### Discovery Profile
 Discovery profile defines the range of devices you want to discover and lets you select devices to be managed or unmanaged. You can create multiple discovery profiles, each for a different set of devices. Each profile can then be saved and reused for future discoveries.
