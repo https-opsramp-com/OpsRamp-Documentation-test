@@ -19,7 +19,9 @@ Let us see with some basics of writing..!!
 ## Headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 > Example :
+
 [![Capture.jpg](https://i.postimg.cc/CxzVP7rk/Capture.jpg)](https://postimg.cc/cvyj6RSL).
+
 ## xyz
 ### xyz
 #### xyz
@@ -43,6 +45,7 @@ Example - 2
 * Thomas Jefferson
 
 > To order your list, precede each line with a number.
+
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
