@@ -2,7 +2,7 @@
 ## Introduction
 Onboarding is bringing a new device onto the OpsRamp for the first time. The onboarded device is managed and monitored by OpsRamp.
 
-Three simple steps in onboarding are:
+> Three simple steps in onboarding are:
 
 1. Add Devices
 2. Assign Templates
@@ -12,8 +12,6 @@ Review Onboarding overall flow
 
 1. Choose a scenario for Agent and Gateway deployment. See scenarios for deploying Agent and Gateway
 2. Add Device Credentials.
-
-
 3. Add devices. See instructions for adding devices
 4. Assign monitoring templates. See instructions for assigning templates
 5. Assign jobs. See instructions for configuring Jobs
@@ -45,8 +43,6 @@ Discovery profile defines the range of devices you want to discover and lets you
 1. Log into OpsRamp.
 2. Click 'All Clients' and from the displayed list, select the Client.
 3. From the options in the drop-down menu, click 'Setup'.
-
-
 4. From the left pane, click Resource Management> Discovery and Deployment.
 5. Select the client in which the discovery profile needs to be added and then click 'Add'.
 6. Provide following discovery details
