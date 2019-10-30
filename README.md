@@ -3,10 +3,10 @@
 Onboarding is bringing a new device onto the OpsRamp for the first time. The onboarded device is managed and monitored by OpsRamp.
 
 > Three simple steps in onboarding are:
-
 1. Add Devices
 2. Assign Templates
 3. Validate
+
 ## Onboarding Quick Start
 Review Onboarding overall flow
 
