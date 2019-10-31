@@ -1,10 +1,5 @@
-### OpsRamp Documentation Test                                                                   
+### Test-1                                                     - [Next Page](README3.md)                                               
 
-
-- [Next Page](README3.md)
-Hello Folks ..!!
-
-This repository is created to test our documentation
 
 Let us see with some basics of writing..!!
 
@@ -33,7 +28,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 This site was built using [GitHub Pages](https://https-opsramp-com.github.io/OpsRamp-Documentation-test/).
 
 ## Lists
-You can make an unordered list by preceding one or more lines of text with - orxzy *.
+You can make an unordered list by preceding one or more lines of text with - or *.
 
 Example - 1
 
