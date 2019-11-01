@@ -1,4 +1,4 @@
-[Back](README.md)------------------------------------------------------------------------------------------[Next](README3.md)
+[Back](README.md)-----------------------------------------------------------------------------------------------[Next](README3.md)
 
 ## Organizing Information With Tables                                          
 You can build tables to organize information as below.
