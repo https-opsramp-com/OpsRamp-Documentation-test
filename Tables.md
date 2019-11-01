@@ -4,10 +4,13 @@ You can build tables to organize information as below.
 ### Creating a table
 You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
 
+[![table-1.jpg](https://i.postimg.cc/jdY0jkj9/table-1.jpg)](https://postimg.cc/Z0HD7HpF)
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 Rendered table
 
 The pipes on either end of the table are optional.
