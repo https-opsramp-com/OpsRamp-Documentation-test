@@ -1,8 +1,6 @@
-### -----------------------------------------------------------[Next Page](Tables.md)
+### ---------------------------------------------------------------------------------[Next Page](Tables.md)
 
 ## Test-1
-
-
 Let us see with some basics of writing..!!
 
 ## Table of Contents
