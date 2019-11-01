@@ -1,4 +1,4 @@
-## Organizing information with tables ------------------------------------------------------[Next](README3.md)                                          
+### Organizing information with tables------------------------------------------------------[Next](README3.md)                                          
 You can build tables to organize information as below.
 
 ### Creating a table
