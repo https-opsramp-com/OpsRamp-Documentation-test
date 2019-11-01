@@ -1,7 +1,7 @@
-Organizing information with tables
+## Organizing information with tables                                           
 You can build tables to organize information in comments, issues, pull requests, and wikis.
 
-Creating a table
+### Creating a table
 You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
 
 | First Header  | Second Header |
@@ -20,7 +20,7 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git diff | Show file differences that haven't been staged |
 Rendered table with varied cell width
 
-Formatting content within your table
+### Formatting content within your table
 You can use formatting such as links, inline code blocks, and text styling within your table:
 
 | Command | Description |
