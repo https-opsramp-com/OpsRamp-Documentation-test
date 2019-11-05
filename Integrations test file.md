@@ -1,0 +1,2 @@
+## Introduction
+In day-to-day execution and maintenance of IT Infrastructure, you make use of different tools and applications to monitor and take necessary steps to control and rectify the events. Different tools have different user interfaces and it becomes cumbersome to monitor and maintain the events arising out of these tools. Having a common interface and a single window to monitor events arising out of different resources and different tools/applications helps the IT administrator in monitoring these events in an effective manner.
